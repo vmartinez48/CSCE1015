@@ -2,5 +2,5 @@
 Assignment repository for UNT CSCE1015
 ## vlm0142
 vlm0142
-## Ms. Hollis
+## Favorite Professor
 Ms. Hollis
